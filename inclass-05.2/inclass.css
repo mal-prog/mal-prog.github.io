@@ -1,0 +1,29 @@
+body{
+    background-color: purple; 
+}
+h1 {
+    color: white;
+    font-size: 1.5em;
+    background-color: green;
+    padding: 25px;
+    border: 3px solidpink;
+    margin: 50px 100px 10px 300px
+}
+h2{
+    color:lightblue;
+    background-color:brown;
+}
+
+p{
+  width:500px;
+  margin:10px auto;
+}
+.wider{
+    width:700px;
+  color:beige;
+  line-height:1.5em;
+}
+#myname{
+    background-color: aqua;
+    color: darkblue;
+    border: 5px solid darkblue;
