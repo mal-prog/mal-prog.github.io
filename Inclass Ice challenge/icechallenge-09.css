@@ -1,0 +1,31 @@
+main{
+    margin : 0 auto;
+    max-width: 350px;
+}
+.scale{
+    width: 350px;
+}
+.second{
+    height: 200px;
+}
+.weeks{
+    color: blue;
+    text-align: center;
+}
+h1{
+     text-align: center;
+}
+.post{
+    text-align: center;
+}
+#bottom{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: rgba(0, 38, 255, 0.75);
+    color: white;
+    text-align: center;
+}
+.views{
+    border-left: gray solid 1px;
+    border-right: gray solid 1px;
+}
