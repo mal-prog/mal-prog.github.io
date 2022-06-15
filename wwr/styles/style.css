@@ -23,7 +23,7 @@ nav a{
     text-align:center ;
     color:black;
     text-decoration: none;
-    padding: 35px;
+    padding: 47px;
 }
 nav{
     display: flex;
@@ -59,7 +59,7 @@ header{
     grid-template-columns: 150px auto;
 }
 nav a:hover{
-    background-color:blue;
+    background-color: #134266;;
     color:blueviolet
 }
 .book,.join{
@@ -129,6 +129,7 @@ footer .social img{
     font-size: 2em;
     margin-top: 10px;
 }
+
 #hero-msg h4{
     color:white;
 }
