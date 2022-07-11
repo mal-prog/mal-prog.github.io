@@ -1,7 +1,7 @@
 body{
   background-color:gray;
   font-family: 'Montserrat','Cormorant Garamond','Source Code Pro';
-  font-size: 25px;
+  font-size: 35px;
   margin-left: 50px;
   margin-right:50px;
   padding: 0;
@@ -13,6 +13,15 @@ body{
   margin-left: 50px;
   margin-right:50px;
   padding: 0;
+}
+h3{
+  text-align: center;
+}
+h1{
+  font-size:35px;
+  margin-top:103px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 .sewing{
   width:20em;
@@ -28,6 +37,7 @@ body{
   height:500px;
   margin:0 auto;
   object-fit: cover;
+  margin-left: 5%;
 }
 .cmonstera{
   width:90%;
@@ -35,6 +45,7 @@ body{
   margin:0 auto;
   object-fit: cover;
 }
+
 .Customers{
   width:90%;
   height:500px;
