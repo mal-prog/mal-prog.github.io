@@ -1,8 +1,9 @@
 body{
-  background-color:lightgreen;
+  background-color:gray;
   font-family: 'Montserrat','Cormorant Garamond','Source Code Pro';
   font-size: 25px;
-  margin: 0;
+  margin-left: 50px;
+  margin-right:50px;
   padding: 0;
 }
 .sewing{
@@ -57,7 +58,7 @@ nav{
   justify-content: space-around;
 }
 header{
-  background-color:burlywood;
+  background-color:orange;
   grid-template-columns: 1fr 1fr 1fr;
 
 }
