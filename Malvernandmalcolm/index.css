@@ -6,6 +6,14 @@ body{
   margin-right:50px;
   padding: 0;
 }
+.fashion{
+  background-color:gray;
+  font-family: 'Montserrat','Cormorant Garamond','Source Code Pro';
+  font-size: 25px;
+  margin-left: 50px;
+  margin-right:50px;
+  padding: 0;
+}
 .sewing{
   width:20em;
 }
