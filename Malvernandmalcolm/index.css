@@ -2,7 +2,7 @@ body{
   background-color:gray;
   font-family: 'Montserrat','Cormorant Garamond','Source Code Pro';
   font-size: 35px;
-  
+
   padding: 0;
 }
 .fashion{
@@ -43,7 +43,8 @@ h1{
   font-family: 'Italianno', 'cursive';
 }
 .sewing{
-  width:20em;
+  width:18em;
+  border-radius:30em;
 }
 .designer{
   width:90%;
