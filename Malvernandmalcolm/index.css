@@ -2,8 +2,7 @@ body{
   background-color:gray;
   font-family: 'Montserrat','Cormorant Garamond','Source Code Pro';
   font-size: 35px;
-  margin-left: 50px;
-  margin-right:50px;
+  
   padding: 0;
 }
 .fashion{
@@ -21,6 +20,7 @@ body{
 .sew{
   font-family: 'Italianno', 'cursive';
   font-size: 60px;
+  padding:0 80px;
 }
 .italic{
   font-family: 'Italianno', 'cursive';
@@ -109,6 +109,7 @@ header{
     overflow: hidden;
     background-color:greenyellow;
     padding: 5px;
+    border-radius: 10px;
   }
   
   /* Style the links inside the navigation bar */
