@@ -17,6 +17,7 @@ body{
   font-family: 'Italianno', 'cursive';
   font-size: 60px;
 }
+
 .sew{
   font-family: 'Italianno', 'cursive';
   font-size: 60px;
@@ -87,11 +88,15 @@ h1{
 
 footer{
   display:flex;
+  font-size: large ;
+  font-style: oblique;
 }
 .social{
   flex: 1;
   margin-left: 15px;
+  
 }
+
 nav{
   display: flex;
   justify-content: space-around;
