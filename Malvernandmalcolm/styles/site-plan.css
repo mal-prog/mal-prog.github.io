@@ -167,6 +167,9 @@ nav a:hover {
   border-top: 1px solid;
   border-left: 1px solid;
 }
+.social{
+  object-fit: cover;
+}
 
 .right {
   grid-area: right;
